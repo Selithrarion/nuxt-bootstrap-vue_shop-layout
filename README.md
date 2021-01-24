@@ -1,6 +1,7 @@
 # nuxt-bootstrap_shop
 
 Тест BootstrapVue  
+  
 ![gif](demo.gif)
 
 ## Build Setup
